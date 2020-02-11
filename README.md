@@ -1,1 +1,0 @@
-# skin_care_ai_mobile_app

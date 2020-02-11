@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:2:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] /home/galo/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-2.1.0.aar/be06696cd5c61cba925b43ef7ab4724b/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/galo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66c565ba7ede790234b01a3ed059967b/AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/galo/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/255074ca665ec9f831040cccdbb68fd0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/56fec8be410c70f2c0da143c9b57fe93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/exifinterface-27.0.2.aar/66b8c1beff299f91ef07efa662d5e1cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/26c7c83f420f7b49bf9e5f541172cc7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6961d1e073cb740d1e98e333c73c9b64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/faad6fac924259b0d62eb251eaee26ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e68cfcd12aa7299378b35a72f2f5bdc8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/aeca289d73a0bfaaefeca0c612206d59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/fc56bda9b74dd8c6d770b665c9761fe0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/galo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/26ba9487f6ee96b4551198e244c64b9f/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:5:22-77
+application
+ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:25:5-20
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] /home/galo/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-2.1.0.aar/be06696cd5c61cba925b43ef7ab4724b/AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] /home/galo/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-2.1.0.aar/be06696cd5c61cba925b43ef7ab4724b/AndroidManifest.xml:8:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/galo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66c565ba7ede790234b01a3ed059967b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/galo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66c565ba7ede790234b01a3ed059967b/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/galo/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/255074ca665ec9f831040cccdbb68fd0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/galo/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/255074ca665ec9f831040cccdbb68fd0/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.amitshekhar.tflite.TeamInfoActivity
+ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:14:9-63
+	android:name
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:14:19-51
+activity#com.amitshekhar.tflite.StartActivity
+ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:15:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.amitshekhar.tflite.MainActivity
+ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml:22:19-47
+uses-sdk
+INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:6:5-8:41
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:6:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] /home/galo/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-2.1.0.aar/be06696cd5c61cba925b43ef7ab4724b/AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] /home/galo/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-2.1.0.aar/be06696cd5c61cba925b43ef7ab4724b/AndroidManifest.xml:5:5-6:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/galo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66c565ba7ede790234b01a3ed059967b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/galo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66c565ba7ede790234b01a3ed059967b/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/galo/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/255074ca665ec9f831040cccdbb68fd0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/galo/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/255074ca665ec9f831040cccdbb68fd0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/56fec8be410c70f2c0da143c9b57fe93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/56fec8be410c70f2c0da143c9b57fe93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/exifinterface-27.0.2.aar/66b8c1beff299f91ef07efa662d5e1cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/exifinterface-27.0.2.aar/66b8c1beff299f91ef07efa662d5e1cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/26c7c83f420f7b49bf9e5f541172cc7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/26c7c83f420f7b49bf9e5f541172cc7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6961d1e073cb740d1e98e333c73c9b64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6961d1e073cb740d1e98e333c73c9b64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/faad6fac924259b0d62eb251eaee26ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/faad6fac924259b0d62eb251eaee26ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e68cfcd12aa7299378b35a72f2f5bdc8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e68cfcd12aa7299378b35a72f2f5bdc8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/aeca289d73a0bfaaefeca0c612206d59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/aeca289d73a0bfaaefeca0c612206d59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/fc56bda9b74dd8c6d770b665c9761fe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/galo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/fc56bda9b74dd8c6d770b665c9761fe0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/galo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/26ba9487f6ee96b4551198e244c64b9f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/galo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/26ba9487f6ee96b4551198e244c64b9f/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+		ADDED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+		MERGED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/galo/Documentos/GitHub/Skin_Care_App/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.CAMERA
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:12:22-68
+uses-feature#android.hardware.camera
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:14:5-60
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:14:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:16:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:19:9-53
+uses-feature#android.hardware.microphone
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/galo/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/e4f453d5353a398a0ee81db5278ce04c/AndroidManifest.xml:22:9-51

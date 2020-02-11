@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EcuDerma IA</string>
+    <string name="toggle_camera">Toggle Camera</string>
+    <string name="detect_object">Tomar Foto</string>
+    <string name="open_gallery">Abrir Galería</string>
+
+    <string name="start">Empezar</string>
+    <string name="app_information">Acerca de</string>
+    <string name="team_information">Equipo EcuDerma IA</string>
+
+    <string name="info">EcuDerma IA permite identificar a qué enfermedad está asociada una lesión de la piel a través de fotos. Las enfermedades que puede identificar son Carcinoma epidermoide, Carcinoma basocelular, Queratosis seborreica, Dermatofibroma, Melanoma, Nevos melanocíticos, Lesiones vasculares, Acné.</string>
+    <string name="disclaimer">EcuDerma IA NO pretende remplazar la labor de un especialista, sino COMPLEMENTAR un criterio médico.</string>
+
+
+</resources>

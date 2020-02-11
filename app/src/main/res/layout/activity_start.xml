@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="16dp"
+    tools:context=".StartActivity">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginBottom="80dp"
+        android:gravity="center"
+        tools:context=".StartActivity">
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/logo_ecuderma_resized" />
+        <Button
+            android:id="@+id/btnStart"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="bottom|center"
+            android:layout_marginBottom="20dp"
+            android:text="@string/start"
+            android:textAllCaps="false"
+            android:background="@drawable/button_border"
+            android:textColor="@android:color/black" />
+
+        <Button
+            android:id="@+id/btnInfo"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginBottom="20dp"
+            android:layout_gravity="bottom|center"
+            android:text="@string/app_information"
+            android:textAllCaps="false"
+            android:background="@drawable/button_border_soft"
+            android:textColor="@android:color/black" />
+
+        <Button
+            android:id="@+id/btnTeam"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="bottom|center"
+            android:text="@string/team_information"
+            android:textAllCaps="false"
+            android:background="@drawable/button_border_soft"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+</LinearLayout>
